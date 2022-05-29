@@ -1,6 +1,6 @@
-tomate = int(input("Acaha que viu um tomate "))
+eVermelho = int(input("É Vermelho ?"))
 
-if(tomate == 1):
-    print("Chama função ")
-else:
-    print("Não Chama")
+if eVermelho == 1:
+    print("Iniciando Deteção")
+else: 
+    print("Passando reto")
